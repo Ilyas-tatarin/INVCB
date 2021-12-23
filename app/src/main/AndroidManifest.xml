@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.PI">
         <activity
+            android:name=".ForFIlter"
+            android:exported="true" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
