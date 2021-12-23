@@ -11,5 +11,6 @@ public class ForFIlter extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_for_filter);
          String a = "spinner";
+        String b = "spinner";
     }
 }
